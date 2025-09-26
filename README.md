@@ -86,8 +86,7 @@
 
 ## 프로젝트 관련 자료
 - [📺 시연 영상 보기](https://drive.google.com/file/d/1pIk7VF6Yq5ruwVTl7RSlTIRkIgqB7VIe/view?usp=drive_link)  
-- [📑 발표 자료 (PPT)](https://docs.google.com/presentation/d/1vRkRwIw13_7I01pk2DKZlyrN8tb0rPAd/edit?usp=drive_link&ouid=115939005204624444347&rtpof=true&sd=true)
 - [📑 발표 자료 (pdf)](https://drive.google.com/file/d/1u8Gq1ahnFGYFPB6hc1C0TzIph7q17Uhy/view?usp=drive_link)
 - [📑 사이트맵](https://drive.google.com/file/d/1oemhnf1p7zDzyH_jC-ZArEcNbIdBa-KX/view?usp=drive_link)
-[프로젝트 개발 계획서](https://docs.google.com/document/d/1-Eby-sEILRy170nCE783xbKEqkqOgwbw)  
+- [프로젝트 개발 계획서](https://docs.google.com/document/d/1-Eby-sEILRy170nCE783xbKEqkqOgwbw)  
  
