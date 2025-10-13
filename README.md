@@ -53,10 +53,9 @@
 | 구분        | 기술 |
 |-------------|------|
 | 언어        | Java |
-| 프레임워크  | Spring Legacy |
 | DB          | Oracle 18c, MyBatis |
 | 프론트엔드  | JSP, JSTL |
-| 백엔드      | Spring MVC, REST API |
+| 백엔드      | Spring, Spring MVC, REST API |
 | 설계 도구   | Figma, Pencil(UI), dbdiagram.io(ERD) |
 
 ## 프로젝트 자문자답
